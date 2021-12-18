@@ -1,0 +1,27 @@
+{
+    "id": "F0FD035A",
+    "path": "~/Workspace/DataScience/Learning/Machine Learning.R",
+    "project_path": "Machine Learning.R",
+    "type": "r_source",
+    "hash": "987880257",
+    "contents": "",
+    "dirty": true,
+    "created": 1636671545739.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2586,0",
+        "scrollLine": "2573"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639853273,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639860226981,
+    "read_only": false,
+    "read_only_alternatives": []
+}
